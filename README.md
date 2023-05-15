@@ -15,9 +15,9 @@ O projeto possui uma aplicação mobile e web que se complementam, onde o mobile
 ## Layout Mobile
 
 <div style="display: flex; justify-content: space-between">
-  <img src="https://github.com/gustavofalcione/waiterapp/blob/main/assets/app-1.png" width="226px" height="400px" />
-  <img src="https://github.com/gustavofalcione/waiterapp/blob/main/assets/app-2.png" width="226px" height="400px" />
-  <img src="https://github.com/gustavofalcione/waiterapp/blob/main/assets/app-3.png" width="226px" height="400px" />
+  <img src="https://github.com/gustavofalcione/waiterapp/blob/main/assets/app-1.png" width="390px" height="844px" />
+  <img src="https://github.com/gustavofalcione/waiterapp/blob/main/assets/app-2.png" width="390px" height="844px" />
+  <img src="https://github.com/gustavofalcione/waiterapp/blob/main/assets/app-3.png" width="390px" height="844px" />
 </div>
 
 ## Frame do Fluxo
