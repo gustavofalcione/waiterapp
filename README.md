@@ -8,14 +8,14 @@ O projeto possui uma aplicação mobile e web que se complementam, onde o mobile
 
 
 ## Layout Web
-![Web 1](https://github.com/gustavofalcione/waiter-app/blob/main/assets/web-1.png)
+![Web 1](https://github.com/gustavofalcione/waiterapp/blob/main/assets/web-1.png)
 
-![Web 2](https://github.com/gustavofalcione/waiter-app/blob/main/assets/web-2.png)
+![Web 2](https://github.com/gustavofalcione/waiterapp/blob/main/assets/web-2.png)
 
 ## Layout Mobile
-![Mobile 1](https://github.com/gustavofalcione/waiter-app/blob/main/assets/app-1.png)
-![Mobile 2](https://github.com/gustavofalcione/waiter-app/blob/main/assets/app-2.png)
-![Mobile 3](https://github.com/gustavofalcione/waiter-app/blob/main/assets/app-3.png)
+![Mobile 1](https://github.com/gustavofalcione/waiterapp/blob/main/assets/app-1.png)
+![Mobile 2](https://github.com/gustavofalcione/waiterapp/blob/main/assets/app-2.png)
+![Mobile 3](https://github.com/gustavofalcione/waiterapp/blob/main/assets/app-3.png)
 
 ## Framo do Fluxo
 
