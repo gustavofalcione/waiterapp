@@ -13,17 +13,16 @@ O projeto possui uma aplicação mobile e web que se complementam, onde o mobile
 ![Web 2](https://github.com/gustavofalcione/waiterapp/blob/main/assets/web-2.png)
 
 ## Layout Mobile
-![Mobile 1](https://github.com/gustavofalcione/waiterapp/blob/main/assets/app-1.png)
-![Mobile 2](https://github.com/gustavofalcione/waiterapp/blob/main/assets/app-2.png)
-![Mobile 3](https://github.com/gustavofalcione/waiterapp/blob/main/assets/app-3.png)
+![Mobile 1](https://github.com/gustavofalcione/waiterapp/raw/main/assets/app-1.png)
+![Mobile 2](https://github.com/gustavofalcione/waiterapp/raw/main/assets/app-2.png)
+![Mobile 3](https://github.com/gustavofalcione/waiterapp/raw/main/assets/app-3.png)
 
-## Framo do Fluxo
+## Frame do Fluxo
 
-<iframe 
-  src="https://drive.google.com/file/d/https://drive.google.com/file/d/1S2E6Tc1BCjf_gXgeW7xBY5DG9z9h5Fiu/view?usp=share_link/preview" 
-  width="640" 
-  height="480">
-</iframe>
+<video width="640" height="480" controls>
+  <source src="https://drive.google.com/file/d/https://drive.google.com/file/d/1S2E6Tc1BCjf_gXgeW7xBY5DG9z9h5Fiu/view?usp=share_link/preview" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 # Tecnologias utilizadas
 
